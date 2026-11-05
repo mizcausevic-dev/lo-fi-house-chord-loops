@@ -1,0 +1,26 @@
+{
+  "title": "Lo-Fi House Chord Loops",
+  "study": "z1201",
+  "bpm": 122,
+  "source_audio": "preview/lo-fi-house-chord-loops-simple-synth-preview.mp3",
+  "source_audio_sha256": "20499cd678984605efee16566a535adda18cdcccb319d507d3575f759fc97597",
+  "source_midi": "midi/z1201-lo-fi-house-chord-loops-opening/z1201-lo-fi-house-chord-loops-opening-combined.mid",
+  "source_midi_sha256": "997ae59f89c25797579fad756e0a97e9231c914b1862b7e19dcefa91a0fe689b",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "e635838887cf3bb07967f7c79667999df16a96c659856ec70d99ec75e61693b3",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "0aff661572bc37992776eb96749ab3df2da156841df7c4e9f4e6229623068b70",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "358e8d00e3ce3490570862d51666f529845e37821bad351621b60e02dafb334e",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

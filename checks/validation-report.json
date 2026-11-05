@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:01.553679+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z1201-lo-fi-house-chord-loops-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "6516c1d6696639346829a86b9a542c1027356bec28aeffe428e09c08096506ce",
+      "errors": []
+    },
+    {
+      "path": "midi/z1201-lo-fi-house-chord-loops-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8f20b77af36babdf4edfac676f8862bdf6284ea45c145ddcdf539cb1a938eae4",
+      "errors": []
+    },
+    {
+      "path": "midi/z1201-lo-fi-house-chord-loops-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1201-lo-fi-house-chord-loops-opening/principal_motif.mid",
+      "bytes": 778,
+      "sha256": "515147d7a432c1ffea517b8a3f1141b28dddae7a571875a300a19123289e6ccc",
+      "errors": []
+    },
+    {
+      "path": "midi/z1201-lo-fi-house-chord-loops-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "d6c9595c6a08e865b1b8ba93dccd3d0e5f8279dddd095ed6e34f8fd4c0ba930a",
+      "errors": []
+    },
+    {
+      "path": "midi/z1201-lo-fi-house-chord-loops-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3e0799586c6971edf853c533699c2ade8fa1f116b13513b55cd9b316a424740b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1201-lo-fi-house-chord-loops-opening/z1201-lo-fi-house-chord-loops-opening-combined.mid",
+      "bytes": 5999,
+      "sha256": "997ae59f89c25797579fad756e0a97e9231c914b1862b7e19dcefa91a0fe689b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1202-lo-fi-house-chord-loops-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "110e67e8de4ac2e9684d46718ccc23309820eb6ce65431c31b8f9d48b0311f0b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1202-lo-fi-house-chord-loops-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f6f577c58ef9b1da4e24a54ef143beef5885c571a15dd12d7017d5a1adcacf55",
+      "errors": []
+    },
+    {
+      "path": "midi/z1202-lo-fi-house-chord-loops-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1202-lo-fi-house-chord-loops-variation/principal_motif.mid",
+      "bytes": 778,
+      "sha256": "1f4aa5528cb8f886f6a11071f565657264c1d6725d38d41c0a92084f2e4ae733",
+      "errors": []
+    },
+    {
+      "path": "midi/z1202-lo-fi-house-chord-loops-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "3f9f004e0d0b19850128289796600fecc5e02741c0aed3ff6eeead49d5582ee6",
+      "errors": []
+    },
+    {
+      "path": "midi/z1202-lo-fi-house-chord-loops-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "e43d8e092d374cca60fc498d45914cfc79bb667d3393346decadce2d12438ac1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1202-lo-fi-house-chord-loops-variation/z1202-lo-fi-house-chord-loops-variation-combined.mid",
+      "bytes": 5999,
+      "sha256": "df93d29e06d43d665c351317aa4806ce2cfcd415edc088ec783b796385686c78",
+      "errors": []
+    },
+    {
+      "path": "midi/z1203-lo-fi-house-chord-loops-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "e6f716321ba83580b586748a103995fda4b0b10ff2476dc8dcb28e0683dd98b1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1203-lo-fi-house-chord-loops-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "676e65fe77d732b1392924e60c91041857749dcfad78fcf145eabeb979bafeaf",
+      "errors": []
+    },
+    {
+      "path": "midi/z1203-lo-fi-house-chord-loops-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1203-lo-fi-house-chord-loops-contrast/principal_motif.mid",
+      "bytes": 748,
+      "sha256": "addb7515f41618fd5a4280ff38c9a6234fce38c1c69f9cfd3d78ef3975abe215",
+      "errors": []
+    },
+    {
+      "path": "midi/z1203-lo-fi-house-chord-loops-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "47850b5012168c5c26c902ba15ec5421fc2d632c61a9015a27e96276574240cb",
+      "errors": []
+    },
+    {
+      "path": "midi/z1203-lo-fi-house-chord-loops-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "bf8097c8623b26afb8fc854e12e91f4e5ed9ee1d8511655d4f10c28c00a2c259",
+      "errors": []
+    },
+    {
+      "path": "midi/z1203-lo-fi-house-chord-loops-contrast/z1203-lo-fi-house-chord-loops-contrast-combined.mid",
+      "bytes": 5969,
+      "sha256": "a0706d71d531c61800a10091460ce628607305164410a5660ee6ff4d74543601",
+      "errors": []
+    },
+    {
+      "path": "midi/z1204-lo-fi-house-chord-loops-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "7dfdc6aad5909b3aa1e871dea07353a7e42dd860f76c832e96b67577e3e081b8",
+      "errors": []
+    },
+    {
+      "path": "midi/z1204-lo-fi-house-chord-loops-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "a7198d2a569e682be59c830add8ec1cdc54472dc6c322d7975a3ec361229f52c",
+      "errors": []
+    },
+    {
+      "path": "midi/z1204-lo-fi-house-chord-loops-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1204-lo-fi-house-chord-loops-return/principal_motif.mid",
+      "bytes": 748,
+      "sha256": "585d38afe28ae071d9954465c1c90246c4dcf6876c9b449da419ed76f9126621",
+      "errors": []
+    },
+    {
+      "path": "midi/z1204-lo-fi-house-chord-loops-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "ec6f60a6fbb8a45c54a54de651c44df0ec036fe453b857c80575ca1444ffd6e2",
+      "errors": []
+    },
+    {
+      "path": "midi/z1204-lo-fi-house-chord-loops-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "caa19da6bc7a84de5581b21dd6b7e79955a6e912256fb23d1b49a889b34a2ab0",
+      "errors": []
+    },
+    {
+      "path": "midi/z1204-lo-fi-house-chord-loops-return/z1204-lo-fi-house-chord-loops-return-combined.mid",
+      "bytes": 5969,
+      "sha256": "7a9f516d77e507e48ab020c655163f0afc3557d2ece64e252cda11fb8a0e6c12",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
