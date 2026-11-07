@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/lo-fi-house-chord-loops-midi.zip",
-      "bytes": 32620,
-      "sha256": "e84a559087f6fbab73f06c1a6407ec5d4744c0b7f262871d434304d6e0e2a536"
+      "bytes": 33607,
+      "sha256": "c3f8b25c56c44e4f07c6430f4e6364d26e345f77cf038ff286e61c28968bced9"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9996,
-      "sha256": "076edba8ee6c16b2e567a8b72c8ca5b2a2bd64da54dbfa1594d7388e52b69526"
+      "bytes": 10186,
+      "sha256": "a8c1b924d964b0a9c90670b7cb829660c8c25fb744ef2ae4a3beb6c248fc7b27"
     },
     {
       "path": "midi/z1201-lo-fi-house-chord-loops-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "7a9f516d77e507e48ab020c655163f0afc3557d2ece64e252cda11fb8a0e6c12"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/lo-fi-house-chord-loops-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "20499cd678984605efee16566a535adda18cdcccb319d507d3575f759fc97597"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3985,
-      "sha256": "c1a825670166a3e85ba37392accf3de551a1da10a7b0caf7f4b3fac1d985641f"
+      "bytes": 4100,
+      "sha256": "7f640341e926e345e7a498ef4620171b249e35344e6740a2aeae66b538dc2b72"
     },
     {
       "path": "social/instagram/caption.txt",
